@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Your Name - [tharunbalaji110@gmail.com](tharunbalaji110@gmail.com)
 
-Project Link: [https://github.com/yourusername/weather-app](https://github.com/yourusername/weather-app)
+Project Link: [https://github.com/tharunbalaji110/weather-app](https://tharun-balaji.github.io/weather-app/)
