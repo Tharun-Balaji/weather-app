@@ -15,7 +15,7 @@ form.addEventListener('submit', function (e) {
   console.log(value);
 
   // Construct API URL with input value
-  let apiUrl = 'http://api.weatherapi.com/v1/current.json?key=882f1adb930a45d7852160114232705&q=' + value + '&aqi=no';
+  let apiUrl = 'https://api.weatherapi.com/v1/current.json?key=882f1adb930a45d7852160114232705&q=' + value + '&aqi=no';
 
   // Fetch weather data from API
   fetch(apiUrl)
